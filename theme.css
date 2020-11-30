@@ -538,7 +538,7 @@ theme-dark,
 .topSectionPlaying-1J5E4n, .root-SR8cQa {
     border-radius: 25px;
     min-height: 375px !important;
-    max-height: 400px !important;
+    max-height: 500px !important;
     height: auto;
 }
 
@@ -568,7 +568,7 @@ theme-dark,
 
 .topSectionNormal-2-vo2m {
     min-height: 375px !important;
-    max-height: 400px !important;
+    max-height: 500px !important;
     height: auto;
     border-radius: 25px;
 }
@@ -612,7 +612,7 @@ theme-dark,
     margin-left: 10px;
     overflow: hidden visible;
     min-height: 375px !important;
-    max-height: 400px !important;
+    max-height: 500px !important;
     height: auto;
 }
 
@@ -626,7 +626,7 @@ theme-dark,
 
 .listScroller-2_vlfo {
     min-height: 375px !important;
-    max-height: 380px !important;
+    max-height: 500px !important;
     height: auto;
 }
 
