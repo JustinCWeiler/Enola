@@ -531,8 +531,8 @@ theme-dark,
     width: auto;
 }
 
-.note-QfFU8y textarea {
-    width: 200px;
+.note-QfFU8y {
+    max-width: 296px;
 }
 
 .topSectionPlaying-1J5E4n, .root-SR8cQa {
@@ -612,12 +612,13 @@ theme-dark,
     margin-left: 10px;
     overflow: hidden visible;
     min-height: 375px !important;
-    max-height: 500px !important;
-    height: auto;
+    max-height: 489.01px !important;
+    height: auto !important;
 }
 
 .tabBarContainer-1s1u-z {
-    margin-left: 100px;
+    display: flex;
+    justify-content: center;
 }
 
 .theme-dark .emptyIconFriends-BrjhY9 {
@@ -626,8 +627,8 @@ theme-dark,
 
 .listScroller-2_vlfo {
     min-height: 375px !important;
-    max-height: 500px !important;
-    height: auto;
+    max-height: 489.4px !important;
+    height: auto !important;
 }
 
 .search-2oPWTC .DraftEditor-root .public-DraftStyleDefault-block span {
@@ -720,5 +721,41 @@ theme-dark,
 }
 
 #app-mount > div.layerContainer-yqaFcK > div > div.perksModal-fSYqOq.auto-Ge5KZx.scrollerBase-289Jih > div.perksModalContentWrapper-2HU6uL > div:nth-child(1) > div.progressBarWrapper-15RqAy.progressBarWrapperVisible-3L7cSB > div > div.tierMarkerContainer-2BmgqV > div.tierMarkerGroup-xg6A1d.selectedTier-1JkO7i > div:nth-child(2) > div {
+    background-color: #3F778A !important;
+}
+
+.activity-11LB_k {
+    border-radius: 25px;
+    background-color: #3F778A !important;
+    margin: 10px;
+}
+
+#app-mount > div:nth-child(7) > div.modal-3c3bKg > div > div > div.topSectionPlaying-1J5E4n > div > div.activityProfile-2bJRaP.activity-1ythUs {
+    border-radius: 25px;
+    background-color: #3F778A !important;
+    margin: 10px;
+}
+
+.topSectionSpotify-1lI0-P {
+    border-radius: 25px;
+}
+
+#app-mount > div:nth-child(7) > div.modal-3c3bKg > div > div > div.topSectionSpotify-1lI0-P > div > div.activityProfile-2bJRaP.activity-1ythUs {
+    border-radius: 25px;
+    background-color: #3F778A !important;
+    margin: auto;
+}
+
+.lookInverted-2D7oAl.colorGreen-29iAKY {
+    background-color: #3F778A !important;
+}
+
+.topSectionSpotify-1lI0-P {
+    min-height: 375px !important;
+    max-height: 489.4px !important;
+    height: auto !important;
+}
+
+.powercord-spotify .spotify-seek-bar-progress {
     background-color: #3F778A !important;
 }
