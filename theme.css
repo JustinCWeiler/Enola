@@ -519,10 +519,6 @@ theme-dark,
     display: none;
 }
 
-.listRow-hutiT_ {
-    position: center;
-}
-
 .listAvatar-1NlAhb {
     margin-right: 0;
 }
@@ -566,7 +562,7 @@ theme-dark,
         background-color: #3F778A;
  }
 
-.topSectionNormal-2-vo2m {
+.Normal-2-vo2m {
     min-height: 375px !important;
     max-height: 500px !important;
     height: auto;
@@ -758,4 +754,90 @@ theme-dark,
 
 .powercord-spotify .spotify-seek-bar-progress {
     background-color: #3F778A !important;
+}
+
+.headerFill-adLl4x {
+    background-color: var(--background-primary);
+}
+
+.tabBarContainer-1s1u-z {
+    border-radius: 25px !important; 
+}
+
+.headerFill-adLl4x {
+    border-radius: 25px !important;
+}
+
+.topSectionPlaying-1J5E4n, .root-SR8cQa {
+    width: auto;
+    min-width: 600px;
+}
+
+.topSectionNormal-2-vo2m {
+    width: auto;
+    min-width: 600px;
+    border-radius: 25px;
+}
+
+.content-2M3n_H a {
+    color: white;
+}
+
+.theme-dark .invite-18yqGF {
+    background-color: rgba(32, 58, 67,.6);
+    border-color: var(--background-secondary);
+}
+
+.lookFilled-1Gx00P.colorGrey-2DXtkV:disabled {
+    background-color: #3F778A;
+}
+
+.theme-dark .changeDetails-bk98pu {
+    background-color: rgba(32, 58, 67,.3);
+ 
+}
+
+.theme-dark .headerClickable-2IVFo9, .theme-dark .headerDefault-1wrJcN {
+    border-radius: 25px;
+}
+
+.theme-dark .auditLog-3jNbM6 {
+    border-color: transparent;
+}
+
+.theme-dark .headerExpanded-CUEwZ5 {
+    background-color: rgba(32, 58, 67,.6);
+}
+
+.theme-dark .divider-1pnAR2 {
+    display: none;
+}
+
+.theme-dark .headerExpanded-CUEwZ5, .theme-dark .changeDetails-bk98pu {
+    border-radius: 25px;
+    margin: 5px;
+}
+
+.updateIconForeground-3tnNZn {
+    fill: #3F778A;
+}
+
+.theme-dark .changeDetails-bk98pu {
+    transform: scale(0.95);
+}
+
+#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div.contentRegion-3nDuYy > div > div > div.toolsContainer-1edPuj > div > div > div.closeButton-1tv5uR > svg > path {
+    fill: #3F778A;
+}
+
+.theme-dark .closeButton-1tv5uR {
+    border-color: #3F778A;
+}
+
+.theme-dark .keybind-KpFkfr {
+    color: #3F778A;
+}
+
+.theme-dark .message-2qRu38 {
+    background-color: var(--background-secondary);
 }
