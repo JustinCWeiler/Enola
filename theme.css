@@ -304,7 +304,7 @@ theme-dark,
 .activity-11LB_k {
     background-color: rgba(0,0,0,0.25);
     padding: 16px;
-} 
+}
 
 .colorDefault-2K3EoJ:hover {
     background-color: var(--background-secondary);
@@ -760,7 +760,7 @@ theme-dark,
 }
 
 .tabBarContainer-1s1u-z {
-    border-radius: 25px !important; 
+    border-radius: 25px !important;
 }
 
 .headerFill-adLl4x {
@@ -789,7 +789,7 @@ theme-dark,
 
 .theme-dark .changeDetails-bk98pu {
     background-color: rgba(32, 58, 67,.3);
- 
+
 }
 
 .theme-dark .headerClickable-2IVFo9, .theme-dark .headerDefault-1wrJcN {
@@ -856,3 +856,4 @@ theme-dark,
 #app-mount > div.layerContainer-yqaFcK > div.layer-2KE1M9 > div > div > div > div > div > div {
     background-color: var(--background-secondary);
 }
+a
