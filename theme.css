@@ -777,5 +777,8 @@ theme-dark,
 
 .theme-dark .paymentPane-3bwJ6A {
     border-radius: 25px;
-    border-color: transparent;
+}
+
+.topSectionNormal-2-vo2m .tabBarContainer-1s1u-z {
+    border-top: none;
 }
