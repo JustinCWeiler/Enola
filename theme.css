@@ -507,10 +507,6 @@ theme-dark,
     border-radius: 25px;
 }
 
-.root-SR8cQa {
-    overflow: visible;
-}
-
 .tabBarContainer-1s1u-z {
     z-index: 1;
 }
@@ -536,6 +532,8 @@ theme-dark,
     min-height: 375px !important;
     max-height: 500px !important;
     height: auto;
+    width: auto;
+    min-width: 600px;
 }
 
 .lookFilled-1Gx00P .contents-18-Yxp, .lookInverted-2D7oAl .contents-18-Yxp, .lookLink-9FtZy- .contents-18-Yxp, .lookOutlined-3sRXeN .contents-18-Yxp {
@@ -587,6 +585,7 @@ theme-dark,
     flex-direction: row;
     width: auto;
     background: transparent;
+    overflow: visible;
 }
 
 .modal-3c3bKg {
@@ -768,10 +767,6 @@ theme-dark,
     border-radius: 25px !important;
 }
 
-.topSectionPlaying-1J5E4n, .root-SR8cQa {
-    width: auto;
-    min-width: 600px;
-}
 
 .topSectionNormal-2-vo2m {
     width: auto;
