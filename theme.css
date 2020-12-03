@@ -386,8 +386,8 @@ theme-dark,
 }
 
 .theme-dark .headerClickable-2IVFo9, .theme-dark .headerDefault-1wrJcN {
-    background-color: rgba(32, 58, 67,0.75)
-    border-radius: 25px;
+    background-color: rgba(32, 58, 67,0.75);
+    border-radius: 25px !important;
 }
 
 .theme-dark .streamPreview-2-WUWT {
