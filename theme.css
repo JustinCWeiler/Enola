@@ -267,8 +267,8 @@ theme-dark,
 }
 
 #app-mount > div.layerContainer-yqaFcK > div.layer-2KE1M9 > div > div > div > div > div > div {
-    background-color: var(--background-primary);
     border: none;
+    background-color: var(--background-secondary);
 }
 
 .theme-light .footer-2gL1pp {
@@ -778,8 +778,4 @@ theme-dark,
 .theme-dark .paymentPane-3bwJ6A {
     border-radius: 25px;
     border-color: transparent;
-}
-
-#app-mount > div.layerContainer-yqaFcK > div.layer-2KE1M9 > div > div > div > div > div > div {
-    background-color: var(--background-secondary);
 }
