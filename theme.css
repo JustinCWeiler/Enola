@@ -304,9 +304,10 @@ theme-dark,
 .activity-11LB_k {
     background-color: rgba(0,0,0,0.25);
     padding: 16px;
-    border-radius: 25px;
-    background-color: #3F778A !important;
-    margin: 10px;
+} 
+
+.colorDefault-2K3EoJ:hover {
+    background-color: var(--background-secondary);
 }
 
 .colorDefault-2K3EoJ.focused-3afm-j {
@@ -334,8 +335,11 @@ theme-dark,
 }
 
 .input-cIJ7To {
-    color: white;
     border: none;
+}
+
+.input-cIJ7To {
+    color: white;
 }
 
 .theme-dark .headerNormal-T_seeN {
@@ -373,6 +377,9 @@ theme-dark,
 
 .theme-dark .bottomDivider-1K9Gao {
     background-color: var(--background-secondary) !important;
+}
+
+.theme-dark .bottomDivider-1K9Gao {
     border-bottom: none;
 }
 
@@ -394,8 +401,7 @@ theme-dark,
 }
 
 .theme-dark .headerClickable-2IVFo9, .theme-dark .headerDefault-1wrJcN {
-    background-color: rgba(32, 58, 67,0.75);
-    border-radius: 25px;
+    background-color: rgba(32, 58, 67,0.75)
 }
 
 .theme-dark .streamPreview-2-WUWT {
@@ -420,12 +426,10 @@ theme-dark,
 
 .fade-18lLrh.didRender-33z1u8 {
     background-color: var(--background-secondary);
-    background: transparent;
 }
 
 .colorDefault-2K3EoJ:hover {
     background: #3F778A;
-    background-color: var(--background-secondary);
 }
 
 .theme-dark .root-1gCeng {
@@ -452,15 +456,24 @@ theme-dark,
     background-color: var(--background-primary);
 }
 
+.activity-11LB_k {
+    background-color: rgba(0,0,0,0.25);
+}
+
+.topSectionSpotify-1lI0-P {
+    background-color: var(--background-primary);
+}
+
 .headerFill-adLl4x {
     background-color: rgba(0,0,0,0.25);
-    background-color: rgba(0,0,0,0.25);
-    background-color: var(--background-primary);
-    border-radius: 25px !important;
 }
 
 .topSectionPlaying-1J5E4n {
     background-color: var(--background-primary);
+}
+
+.headerFill-adLl4x {
+    background-color: rgba(0,0,0,0.25);
 }
 
 .barFill-23-gu- {
@@ -496,10 +509,10 @@ theme-dark,
 
 .root-SR8cQa {
     overflow: visible;
-    display: flex;
-    flex-direction: row;
-    width: auto;
-    background: transparent;
+}
+
+.tabBarContainer-1s1u-z {
+    z-index: 1;
 }
 
 .guildNick-3uAm3i, .listName-3w10cx {
@@ -523,8 +536,6 @@ theme-dark,
     min-height: 375px !important;
     max-height: 500px !important;
     height: auto;
-    width: auto;
-    min-width: 600px;
 }
 
 .lookFilled-1Gx00P .contents-18-Yxp, .lookInverted-2D7oAl .contents-18-Yxp, .lookLink-9FtZy- .contents-18-Yxp, .lookOutlined-3sRXeN .contents-18-Yxp {
@@ -564,11 +575,46 @@ theme-dark,
 
 .modal-3c3bKg {
     position: absolute;
-    width: 100%
+    width: 85%
+}
+
+.tabBarContainer-1s1u-z {
+    border-top: 0px;
+}
+
+.root-SR8cQa {
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    background: transparent;
+}
+
+.modal-3c3bKg {
+    width: 100%;
+}
+
+.topSectionNormal-2-vo2m {
+    width: 600px;
 }
 
 .body-3ND3kc::-webkit-scrollbar {
     display: none;
+}
+
+.body-3ND3kc {
+    position: relative;
+    margin-left: 0;
+    max-width: 296px;
+    margin-left: 10px;
+    overflow: hidden visible;
+    min-height: 375px !important;
+    max-height: 489.01px !important;
+    height: auto !important;
+}
+
+.tabBarContainer-1s1u-z {
+    display: flex;
+    justify-content: center;
 }
 
 .theme-dark .emptyIconFriends-BrjhY9 {
@@ -600,6 +646,10 @@ theme-dark,
 
 .theme-dark .keybindShortcut-1BD6Z1 {
     background: var(--background-secondary);
+}
+
+.fade-18lLrh.didRender-33z1u8 {
+    background: transparent;
 }
 
 .container-2dqNWc {
@@ -670,10 +720,20 @@ theme-dark,
     background-color: #3F778A !important;
 }
 
+.activity-11LB_k {
+    border-radius: 25px;
+    background-color: #3F778A !important;
+    margin: 10px;
+}
+
 #app-mount > div:nth-child(7) > div.modal-3c3bKg > div > div > div.topSectionPlaying-1J5E4n > div > div.activityProfile-2bJRaP.activity-1ythUs {
     border-radius: 25px;
     background-color: #3F778A !important;
     margin: 10px;
+}
+
+.topSectionSpotify-1lI0-P {
+    border-radius: 25px;
 }
 
 #app-mount > div:nth-child(7) > div.modal-3c3bKg > div > div > div.topSectionSpotify-1lI0-P > div > div.activityProfile-2bJRaP.activity-1ythUs {
@@ -690,19 +750,27 @@ theme-dark,
     min-height: 375px !important;
     max-height: 489.4px !important;
     height: auto !important;
-    border-radius: 25px;
-    background-color: var(--background-primary);
 }
 
 .powercord-spotify .spotify-seek-bar-progress {
     background-color: #3F778A !important;
 }
 
+.headerFill-adLl4x {
+    background-color: var(--background-primary);
+}
+
 .tabBarContainer-1s1u-z {
+    border-radius: 25px !important; 
+}
+
+.headerFill-adLl4x {
     border-radius: 25px !important;
-    display: flex;
-    justify-content: center;
-    z-index: 1;
+}
+
+.topSectionPlaying-1J5E4n, .root-SR8cQa {
+    width: auto;
+    min-width: 600px;
 }
 
 .topSectionNormal-2-vo2m {
@@ -726,7 +794,11 @@ theme-dark,
 
 .theme-dark .changeDetails-bk98pu {
     background-color: rgba(32, 58, 67,.3);
-    transform: scale(0.95);
+ 
+}
+
+.theme-dark .headerClickable-2IVFo9, .theme-dark .headerDefault-1wrJcN {
+    border-radius: 25px;
 }
 
 .theme-dark .auditLog-3jNbM6 {
@@ -748,6 +820,10 @@ theme-dark,
 
 .updateIconForeground-3tnNZn {
     fill: #3F778A;
+}
+
+.theme-dark .changeDetails-bk98pu {
+    transform: scale(0.95);
 }
 
 #app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div.contentRegion-3nDuYy > div > div > div.toolsContainer-1edPuj > div > div > div.closeButton-1tv5uR > svg > path {
