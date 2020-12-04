@@ -246,7 +246,8 @@ theme-dark,
 }
 
 .templatesList-2E6rTe {
-  background-color: var(--background-primary);
+  background-color: #203A43;
+  height: 325px;
 }
 
 #app-mount>div.app-1q1i1E>div>div.layers-3iHuyZ.layers-3q14ss>div>div>div>div>div.container-1D34oG>section>div.children-19S4PO>div.tabBar-ZmDY9v.topPill-30KHOu>div:nth-child(5) {
@@ -268,6 +269,7 @@ theme-dark,
 #app-mount>div.layerContainer-yqaFcK>div.layer-2KE1M9>div>div>div>div>div>div {
   border: none;
   background-color: var(--background-secondary);
+  border-radius: 25px;
 }
 
 .theme-light .footer-2gL1pp {
@@ -805,4 +807,13 @@ theme-dark,
 
 .participantsButton-KYW-IW:hover {
   background: #203A43;
+}
+
+.subtitle-Nw1LLR {
+  margin-top: 8px;
+  margin-bottom: 12px;
+}
+
+.container-UC8Ug1:hover {
+  background-color: #3F778A;
 }
