@@ -764,11 +764,6 @@ theme-dark,
     background-color: var(--background-secondary);
 }
 
-.sizeMin-1mJd1x {
-    border-radius: 50%;
-    box-sizing: border-box;
-}
-
 .theme-dark .codeRedemptionRedirect-1wVR4b {
     background-color: var(--background-secondary);
     border-color: transparent;
@@ -781,4 +776,22 @@ theme-dark,
 
 .topSectionNormal-2-vo2m .tabBarContainer-1s1u-z {
     border-top: none;
+}
+
+.theme-dark .streamPreview-2-WUWT {
+  margin: 0;
+}
+
+.streamPreviewWrapper-2DSWOK.mounted-26niXS {
+  background-color: transparent;
+}
+
+.container-2dqNWc {
+  margin-left: 0;
+  border-radius: 25px;
+}
+
+.fade-18lLrh.didRender-33z1u8 {
+  border-radius: 25px;
+  background-color: var(--background-primary);
 }
