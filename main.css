@@ -817,3 +817,27 @@ theme-dark,
 .container-UC8Ug1:hover {
   background-color: #3F778A;
 }
+
+.header-1Xr5FO {
+  background-color: #203A43;
+}
+
+.colorHeaderPrimary-26Jzh-, .sampleLink-2NLvZg {
+  color: white;
+}
+
+.scroller-3__pG8 {
+  background-color: var(--background-primary);
+}
+
+.selectedIcon-3uS11H {
+  color: #3F778A;
+}
+
+.theme-dark.authBox-hW6HRx {
+  background-color: #0F2229;
+}
+
+.fallbackImage-31Sk4m {
+  display: none;
+}
