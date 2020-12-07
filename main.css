@@ -101,6 +101,7 @@ theme-dark,
 
 .scrollableContainer-2NUZem {
   background-color: #203A43;
+  border-radius: 25px;
 }
 
 .contentRegionScroller-26nc1e::-webkit-scrollbar-track,
@@ -269,7 +270,7 @@ theme-dark,
 #app-mount>div.layerContainer-yqaFcK>div.layer-2KE1M9>div>div>div>div>div>div {
   border: none;
   background-color: var(--background-secondary);
-  border-radius: 25px;
+  margin-top:10px;
 }
 
 .theme-light .footer-2gL1pp {
@@ -417,7 +418,7 @@ theme-dark,
 }
 
 .theme-dark .root-1gCeng {
-  background-color: var(--background-primary);
+  background-color: var(--background-secondary);
 }
 
 .theme-dark .footer-2gL1pp {
@@ -840,4 +841,25 @@ theme-dark,
 
 .fallbackImage-31Sk4m {
   display: none;
+}
+
+.copyInput-1T2hfb {
+  margin: 10px;
+}
+
+.lookOutlined-3sRXeN.colorGreen-29iAKY {
+  color: #3F778A;
+  border-color: #3F778A;
+}
+
+.cta-3gK0Pu {
+  background-color: #203A43;
+}
+
+.cta-3gK0Pu:hover {
+  background-color: #3F778A;
+}
+
+.theme-dark .separator-2-RRj_ {
+  border-top: 0;
 }
