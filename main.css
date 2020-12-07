@@ -867,3 +867,9 @@ theme-dark,
 .theme-dark .searchOption-zQ-1l6 .answer-1n6g43 {
   color: #fff;
 }
+
+.container-2fRDfG {
+  border-radius: 25px;
+  transform: scale(0.95);
+  margin-bottom: 5px;
+}
