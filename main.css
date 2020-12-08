@@ -422,7 +422,8 @@ theme-dark,
 }
 
 .theme-dark .footer-2gL1pp {
-  background-color: var(--background-secondary);
+  background-color: var(--background-primary);
+  box-shadow: none;
 }
 
 .colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) {
