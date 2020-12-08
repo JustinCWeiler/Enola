@@ -332,6 +332,10 @@ theme-dark,
   color: white;
 }
 
+.input-cIJ7To::-webkit-scrollbar {
+  display: none;
+}
+
 .theme-dark .headerNormal-T_seeN {
   background-color: var(--background-primary);
 }
@@ -889,4 +893,9 @@ theme-dark,
 
 .theme-dark .barBackground-2EEiLw {
   background-color: #203A43;
+}
+
+.role-2irmRk {
+  border: 0px;
+  border-bottom: 1px solid;
 }
