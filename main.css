@@ -652,18 +652,6 @@ theme-dark,
   color: white;
 }
 
-.theme-dark .barBackground-2EEiLw {
-  background-color: #3F778A !important;
-}
-
-.theme-dark .tierMarkerBackground-3q29am {
-  background-color: #3F778A !important;
-}
-
-#app-mount>div.layerContainer-yqaFcK>div>div.perksModal-fSYqOq.auto-Ge5KZx.scrollerBase-289Jih>div.perksModalContentWrapper-2HU6uL>div:nth-child(1)>div.progressBarWrapper-15RqAy.progressBarWrapperVisible-3L7cSB>div>div.tierMarkerContainer-2BmgqV>div.tierMarkerGroup-xg6A1d.selectedTier-1JkO7i>div:nth-child(2)>div {
-  background-color: #3F778A !important;
-}
-
 .activity-11LB_k {
   border-radius: 25px;
   background-color: #3F778A !important;
@@ -885,4 +873,20 @@ theme-dark,
 
 .button-3HqqDX {
   background-color: #0F2229;
+}
+
+.root-2VTZPJ {
+  background-color: #203A43;
+}
+
+.theme-dark .tierMarkerBackground-3q29am {
+  background-color: #203A43;
+}
+
+.tierMarkerSelectable-3t7r2q {
+  background: #3F778A !important;
+}
+
+.theme-dark .barBackground-2EEiLw {
+  background-color: #203A43;
 }
