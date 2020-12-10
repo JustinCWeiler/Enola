@@ -907,3 +907,19 @@ theme-dark,
 #channels > div > div:nth-child(11) > div.list-2luk8a.list-SuzGBZ.listDefault-3ir5aS > div:nth-child(2) > div > div > div.icons-1dXQdz > div > div {
   background-color: #3F778A !important;
 }
+
+.theme-dark .everyonePopout-nEbJY3 {
+  background-color: #203A43;
+}
+
+.theme-dark .footer-2aTx0s {
+  background-color: #0F2229;
+}
+
+.lookOutlined-3sRXeN.colorBrand-3pXr91 {
+  border-color: #3F778A !important;
+}
+
+.memberListItem-2ZX2pl:hover {
+  border-color: #3F778A !important;
+}
