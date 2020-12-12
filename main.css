@@ -946,3 +946,11 @@ theme-dark,
 .theme-dark .bannedUser-1IalTM .username-1b3MVI .discrim-oGb-FO, .theme-dark .bannedUserModal-3RJCOV .reason-YbfGC6, .theme-dark .bannedUserModal-3RJCOV .userDiscrim-1D2NlF {
   color: #fff;
 }
+
+.lookFilled-1Gx00P.colorGreen-29iAKY:disabled {
+  background-color: #3F778A;
+}
+
+.embed-IeVjo6 {
+  border-color: #3F778A !important;
+}
