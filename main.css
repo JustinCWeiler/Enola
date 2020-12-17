@@ -1011,3 +1011,7 @@ theme-dark,
 .colorDefault-2K3EoJ .checkbox-3s5GYZ, .colorDefault-2K3EoJ .radioSelection-1HmrQS {
   color: #3F778A !important;
 }
+
+.theme-dark .memberListItem-31QoHj:not(.popoutDisabled-2RK7MF):hover {
+  background-color: #3F778A;
+}
