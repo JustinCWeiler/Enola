@@ -1004,6 +1004,10 @@ theme-dark,
   background-color: #203A43 !important;
 }
 
-.colorable-1bkp8v.primaryDark-3mSFDl, .colorDefault-2K3EoJ .checkbox-3s5GYZ, .colorDefault-2K3EoJ .radioSelection-1HmrQS {
+.colorable-1bkp8v.primaryDark-3mSFDl {
+  background: #3F778A !important;
+}
+
+.colorDefault-2K3EoJ .checkbox-3s5GYZ, .colorDefault-2K3EoJ .radioSelection-1HmrQS {
   color: #3F778A !important;
 }
