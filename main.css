@@ -1015,3 +1015,11 @@ theme-dark,
 .theme-dark .memberListItem-31QoHj:not(.popoutDisabled-2RK7MF):hover {
   background-color: #3F778A;
 }
+
+.theme-dark .modal-yWgWj- {
+  background-color: #0F2229 !important;
+}
+
+.hljs:not([class$='hljs']) {
+  border-radius: 15px !important;
+}
