@@ -417,8 +417,8 @@ theme-dark,
 }
 
 .colorDefault-2K3EoJ:hover {
-  background: #3F778A;
-  background-color: var(--background-secondary);
+  background: #203A43 !important;
+  background-color: #203A43 !important;
 }
 
 .theme-dark .root-1gCeng {
@@ -1026,4 +1026,12 @@ theme-dark,
 
 .headerStreaming-2FjmGz {
   background-color: #0F2229 !important;
+}
+
+.scroller-3BxosC {
+  background-color: #0F2229 !important;
+}
+
+.menu-3sdvDG {
+  background-color: #0F2229 !important;  
 }
