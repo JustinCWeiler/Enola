@@ -1033,5 +1033,13 @@ theme-dark,
 }
 
 .menu-3sdvDG {
-  background-color: #0F2229 !important;  
+  background-color: #0F2229 !important;
+}
+
+.theme-dark .quickSelectPopout-X1hvgV {
+  background-color: #0F2229 !important;
+}
+
+.theme-dark .quickSelectPopoutOption-opKBx9:hover {
+  background-color: #203A43 !important;  
 }
