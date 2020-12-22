@@ -215,15 +215,11 @@ theme-dark,
 }
 
 .theme-dark .popout-38lTFE {
-  background-color: var(--background-secondary);
+  background-color: #0F2229;
 }
 
 .theme-dark .separator-XqIyoz {
   display: none;
-}
-
-.wrapper-3Rixsz:hover {
-  background-color: #3F778A !important;
 }
 
 .memberListContainer-13tNU9:hover {
@@ -417,8 +413,8 @@ theme-dark,
 }
 
 .colorDefault-2K3EoJ:hover {
-  background: #3F778A;
-  background-color: var(--background-secondary);
+  background: #203A43 !important;
+  background-color: #203A43 !important;
 }
 
 .theme-dark .root-1gCeng {
@@ -438,10 +434,6 @@ theme-dark,
   background-color: var(--background-primary);
 }
 
-.scroller-3BxosC {
-  background-color: var(--background-primary);
-}
-
 .headerSpotify-zpWxgT {
   background-color: var(--background-primary);
 }
@@ -452,10 +444,6 @@ theme-dark,
 
 .barFill-23-gu- {
   background-color: #3F778A;
-}
-
-.theme-dark .bar-2Qqk5Z {
-  background-color: var(--background-secondary);
 }
 
 .theme-dark .option-96V44q.selected-rZcOL- {
@@ -944,5 +932,122 @@ theme-dark,
 }
 
 .theme-dark .bannedUser-1IalTM .username-1b3MVI .discrim-oGb-FO, .theme-dark .bannedUserModal-3RJCOV .reason-YbfGC6, .theme-dark .bannedUserModal-3RJCOV .userDiscrim-1D2NlF {
+  color: #fff;
+}
+
+.lookFilled-1Gx00P.colorGreen-29iAKY:disabled {
+  background-color: #3F778A;
+}
+
+.embed-IeVjo6 {
+  border-color: #3F778A !important;
+}
+
+.theme-dark .emptyIconGuilds-3OViNh {
+  margin: 15px;
+}
+
+.liveSmall-1dy2uA {
+  background-color: #3F778A !important;
+}
+
+.bannedUserModal-3RJCOV .content-1x7qW2 {
+  background-color: #203A43 !important;
+}
+
+.lookGhost-2Fn_0-.colorGrey-2DXtkV {
+  color: #3F778A !important;
+}
+
+#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div > div.contentRegion-3nDuYy > div > div > div.toolsContainer-1edPuj > div > div > div.closeButton-1tv5uR > svg > path {
+  fill: #3F778A;
+}
+
+.css-rzbxvl-option {
+  background-color: #3F778A;
+}
+
+.css-3vaxre-menu {
+  background-color: #203A43 !important;
+}
+
+.categoryHeader-O1zU94 {
+  background-color: #203A43 !important;
+}
+
+.option-1B5ZV8 {
+  background-color: #203A43 !important;
+}
+
+.topSectionXbox-3fWLjS {
+  background-color: #0F2229 !important;
+  border-radius: 25px;
+}
+
+.lookFilled-1Gx00P.colorWhite-rEQuAQ {
+  background-color: #0F2229 !important;
+}
+
+.lookFilled-1Gx00P.colorWhite-rEQuAQ:hover {
+  background-color: #203A43 !important;
+}
+
+.colorable-1bkp8v.primaryDark-3mSFDl {
+  background: #3F778A !important;
+}
+
+.colorDefault-2K3EoJ .checkbox-3s5GYZ, .colorDefault-2K3EoJ .radioSelection-1HmrQS {
+  color: #3F778A !important;
+}
+
+.theme-dark .memberListItem-31QoHj:not(.popoutDisabled-2RK7MF):hover {
+  background-color: #203A43;
+}
+
+.theme-dark .modal-yWgWj- {
+  background-color: #0F2229 !important;
+}
+
+.hljs:not([class$='hljs']) {
+  border-radius: 15px !important;
+}
+
+.headerStreaming-2FjmGz {
+  background-color: #0F2229 !important;
+}
+
+.scroller-3BxosC {
+  background-color: #0F2229 !important;
+}
+
+.menu-3sdvDG {
+  background-color: #0F2229 !important;
+}
+
+.theme-dark .quickSelectPopout-X1hvgV {
+  background-color: #0F2229 !important;
+}
+
+.theme-dark .quickSelectPopoutOption-opKBx9:hover {
+  background-color: #203A43 !important;
+}
+
+.streamPreview-3YL8OQ {
+  background-color: #203A43 !important;
+}
+
+.theme-dark .bar-2Qqk5Z {
+  background-color: #203A43 !important;
+}
+
+.wrapper-3Rixsz:hover {
+  background-color: #203A43 !important;
+}
+
+.theme-dark .iconWrapper-3LVgIo {
+  background-color: #0F2229 !important;
+}
+
+.theme-dark .descriptionDiscriminator-3vUOCc {
   color: #fff;
 }
