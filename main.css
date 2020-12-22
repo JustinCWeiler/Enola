@@ -222,10 +222,6 @@ theme-dark,
   display: none;
 }
 
-.wrapper-3Rixsz:hover {
-  background-color: #3F778A !important;
-}
-
 .memberListContainer-13tNU9:hover {
   background-color: #3F778A !important;
 }
@@ -438,10 +434,6 @@ theme-dark,
   background-color: var(--background-primary);
 }
 
-.scroller-3BxosC {
-  background-color: var(--background-primary);
-}
-
 .headerSpotify-zpWxgT {
   background-color: var(--background-primary);
 }
@@ -452,10 +444,6 @@ theme-dark,
 
 .barFill-23-gu- {
   background-color: #3F778A;
-}
-
-.theme-dark .bar-2Qqk5Z {
-  background-color: var(--background-secondary);
 }
 
 .theme-dark .option-96V44q.selected-rZcOL- {
@@ -1050,7 +1038,7 @@ theme-dark,
 
 .theme-dark .bar-2Qqk5Z {
   background-color: #203A43 !important;
-  background: #203A43 !important;
+  background: #203A43;
 }
 
 .wrapper-3Rixsz:hover {
