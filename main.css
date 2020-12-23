@@ -133,10 +133,6 @@ theme-dark,
   border-color: transparent !important;
 }
 
-.powercord-spotify .spotify-buttons button {
-  display: none;
-}
-
 .circleIconButton-jET_ig:hover {
   background-color: #3F778A;
 }
@@ -1073,4 +1069,12 @@ theme-dark,
   border-radius: 25px;
   margin: 10px;
   background-color: #3F778A !important;
+}
+
+.powercord-spotify .spotify-buttons button {
+  color: #3F778A !important;
+}
+
+.powercord-spotify .spotify-extra-controls .active {
+  color: #3F778A !important;
 }
