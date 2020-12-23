@@ -1055,3 +1055,27 @@ theme-dark,
 .theme-dark .applicationStreamingPreviewWrapper-8QqvVY {
   background-color: #0F2229;
 }
+
+.topSectionStreaming-1Tpf5X {
+  background-color: #0F2229;
+  border-radius: 25px;
+}
+
+.buttonInvertedPurple-WtBglX {
+  background-color: #3F778A !important;
+}
+
+.topSectionStreaming-1Tpf5X {
+    min-height: 375px !important;
+    max-height: 489.4px !important;
+    max-width: 700px;
+    height: auto !important;
+    border-radius: 25px;
+    background-color: var(--background-primary);
+}
+
+#app-mount > div:nth-child(7) > div.modal-3c3bKg > div > div > div.topSectionStreaming-1Tpf5X > div > div.activityProfile-2bJRaP.activity-1ythUs {
+  border-radius: 25px;
+  margin: 10px;
+  background-color: #3F778A !important;
+}
