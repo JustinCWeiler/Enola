@@ -1084,5 +1084,9 @@ theme-dark,
 }
 
 .theme-dark .description-1RsfgZ {
-  background-color: #203A43;  
+  background-color: #203A43;
+}
+
+.groupLabel-2t5iuZ:hover {
+  background-color: #0F2229 !important;
 }
