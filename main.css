@@ -443,7 +443,7 @@ theme-dark,
 }
 
 .theme-dark .option-96V44q.selected-rZcOL- {
-  background-color: #3F778A;
+  background-color: #203A43;
 }
 
 .resultsGroup-r_nuzN {
@@ -1089,4 +1089,16 @@ theme-dark,
 
 .groupLabel-2t5iuZ:hover {
   background-color: #0F2229 !important;
+}
+
+.searchBar-3dMhjb {
+  background-color: #0F2229 !important;
+}
+
+.scroller-2TWLdF {
+  background-color: #0F2229;
+}
+
+.theme-dark .memberListItem-2ZX2pl:not(.popoutDisabled-xucru2):hover {
+  background-color: #203A43;
 }
