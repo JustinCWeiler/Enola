@@ -1102,3 +1102,11 @@ theme-dark,
 .theme-dark .memberListItem-2ZX2pl:not(.popoutDisabled-xucru2):hover {
   background-color: #203A43;
 }
+
+.headerXbox-3G-4PF {
+  background-color: #0F2229;
+}
+
+.activityName-1IaRLn, .nameNormal-2lqVQK, .nameWrap-3Z4G_9 {
+  margin-right: 10px;
+}
