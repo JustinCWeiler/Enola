@@ -1110,3 +1110,11 @@ theme-dark,
 .activityName-1IaRLn, .nameNormal-2lqVQK, .nameWrap-3Z4G_9 {
   margin-right: 10px;
 }
+
+.layer-v9HyYc > .animatorTop-2Y7x2r > div > .white-3xi-nx {
+  background-color: var(--background-secondary-alt);
+}
+
+.layer-v9HyYc > .animatorTop-2Y7x2r > div > section {
+  background-color: var(--background-primary);
+}
