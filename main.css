@@ -19,12 +19,11 @@ theme-dark,
   --deprecated-text-input-border-disabled: var(--background-tertiary) !important;
   --activity-card-background: var(--background-primary) !important;
   --channels-default: #BCC2D5 !important;
-  --text-muted: #ffffff !important;
   --text-normal: #ffffff !important;
-  --interactive-normal: #ffffff !important;
   --interactive-hover: #3F778A !important;
   --interactive-active: #203A43 !important;
-  --interactive-muted: #ffffff !important;
+  --text-muted: #ffffff !important;
+  --interactive-muted: #294d59 !important;
   --header-secondary: #ffffff !important;
   --toast-background: var(--background-primary) !important;
   --toast-header: var(--background-tertiary) !important;
@@ -34,12 +33,13 @@ theme-dark,
   --offline-color: #ffffff !important;
   --text-muted: #ffffff !important;
   --interactive-normal: #ffffff !important;
-  --interactive-active: #3F778A !important;
+  /*--interactive-active: #3F778A !important;*/
+  --interactive-active: #00bfff !important;
 }
 
 /*Change watermark to Enola*/
 .wordmark-2iDDfm:after {
-  content: "Enola";
+  content: "Pog";
   font-size: 14px;
   font-weight: 700;
   white-space: nowrap;
@@ -179,7 +179,7 @@ theme-dark,
 }
 
 .placeholder-37qJjk, .slateTextArea-1Mkdgw .hljs-comment, .slateTextArea-1Mkdgw .hljs-quote {
-  color: white;
+  color: #3f6f7f;
 }
 
 .container-3auIfb:not([style*="125"]) {
