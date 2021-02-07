@@ -1,5 +1,3 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/conjuringil/enola/badge)](https://www.codefactor.io/repository/github/conjuringil/enola)
-
 # Enola
 A theme for powercord and betterdiscord.
 
